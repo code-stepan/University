@@ -1,2 +1,0 @@
-# hypergraphs
-C# library
