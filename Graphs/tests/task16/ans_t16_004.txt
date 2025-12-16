@@ -1,0 +1,8 @@
+Weight of minimal spanning tree: 65
+Minimal spanning tree:
+2-5: 16
+1-3: 2
+1-4: 12
+1-5: 2
+2-6: 20
+3-7: 13

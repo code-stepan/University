@@ -1,0 +1,7 @@
+Length of shortest traveling salesman path is: 49.
+Path:
+2-4 : 15
+4-3 : 10
+3-5 : 5
+5-1 : 6
+1-2 : 13
